@@ -1,4 +1,5 @@
-POWER BI CUSTOM VISUALS – STANDARD VISUALIZATION LICENSE TERMS
+#POWER BI CUSTOM VISUALS – STANDARD VISUALIZATION LICENSE TERMS
+
 These license terms are an agreement between you and the visualization developer. Please read them.
 They apply to the visualization for Power BI you download from the Office Store, including any updates
 or supplements for the visualization (the “Visualization”), unless the Visualization comes with separate
